@@ -7,7 +7,14 @@
     align-items: center;
     font-size: 1.4em;
     font-weight: lighter;
-    background-color: orange;
-    color:lightgrey;
+    background-color: #cdd2e9;
+    color:rgb(109, 107, 107);
     flex:1;
+    outline:1px solid #888;
+}
+
+
+.oper{
+    background-color: #fe9241;
+    color:white;
 }
