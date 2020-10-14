@@ -11,9 +11,8 @@ const isOperator=(val)=>{
 
 
 
-const Button=(props) =><div 
+export const Button=(props) =><div 
 className={`btn-wrapper ${isOperator(props.children)?null:"oper"}`}>
     {props.children}
     </div>
 
-export default Button;
