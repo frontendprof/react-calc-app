@@ -1,4 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+## Needs to be done further
+
+In the project directory, I can further develop and include below:
+
+
+
+### Make `math.evaluate` comprehend `&times;` as multiply instead of asterisk
+
+
+### Create a logic in which there is restriction for double operator input
+
+
+### Same logic can include restraint on double period after a digit
+### After a period need to put restrictions for multiple zeros
+
+
+#############################################################################
 
 ## Available Scripts
 
